@@ -14,7 +14,7 @@ export default function Home() {
 
         <p className="description">Test your pages in a lab environment powered by PageSpeed Insights. Then get tips and recommendations to improve your user experience. For field performance, see the <a target="_blank" href="https://pagespeed.web.dev/?utm_source=psi&utm_medium=redirect">PageSpeed Insights</a> tool.</p>
 
-        <Image src="/testing.jpg" width={400} height={400} />
+        <Image src="/testing.jpg" width={400} height={400} alt="Testing"/>
       </main>
 
       <style jsx>{`
