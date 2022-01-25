@@ -10,7 +10,8 @@ export default function Home() {
       </Head>
 
       <main>
-        <h1 className="title">Measure page quality</h1>
+
+        <h1 className="title">Nextjs - Measure page quality</h1>
 
         <p className="description">Test your pages in a lab environment powered by PageSpeed Insights. Then get tips and recommendations to improve your user experience. For field performance, see the <a target="_blank" href="https://pagespeed.web.dev/?utm_source=psi&utm_medium=redirect">PageSpeed Insights</a> tool.</p>
 
